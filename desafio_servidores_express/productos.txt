@@ -1,0 +1,16 @@
+[{
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Squadra_45.jpg",
+    "id": 1
+}, {
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Casio_fx-85WA_20050529.jpg",
+    "id": 2
+}, {
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://www.tiendita.cl/wp-content/uploads/2022/10/GLOJMI002.jpg",
+    "id": 3
+}]
