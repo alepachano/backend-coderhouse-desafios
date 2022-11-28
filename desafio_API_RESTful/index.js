@@ -29,7 +29,7 @@ const productos = [{
         title: "jeans",
         price: 60,
         thumbnail: "https://americaneaglecl.vtexassets.com/arquivos/ids/779869/4363789583_1.jpg?v=637933204000400000"
-    },
+    }
 ];
 
 
